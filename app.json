@@ -3,7 +3,7 @@
   "description": "[Iniadalahbot] userbot Telegram modular yang berjalan pada Python 3.9+",
   "logo": "https://telegra.ph/file/ac134f6d295ad0c03af9b.jpg",
   "keywords": ["telegram", "userbot", "Iniadalahbot", "modular", "python"],
-  "repository": "https://github.com/Ergans33/test",
+  "repository": "https://github.com/Ergans33/crashmulu",
   "stack": "container",
   "env": {
     "API_KEY": {
